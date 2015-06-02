@@ -1,12 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerMovement.cs">
     <Files>
-      <File FileName="Assets\Scripts\AlarmLight.cs" Line="20" Column="1" />
-      <File FileName="Assets\Scripts\Tags.cs" Line="5" Column="2" />
+      <File FileName="..\RenoTahoe\RenoTahoe.sln" Line="1" Column="1" />
+      <File FileName="..\RenoTahoe\Assets\CameraMovement.cs" Line="5" Column="9" />
+      <File FileName="Assets\Scripts\AlarmLight.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tags.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\SceneFadeInOut.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\LastPlayerSighting.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="45" Column="10" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
